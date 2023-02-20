@@ -3,14 +3,10 @@ Implementation of video encoder/decoder using MATLAB
 
 My Project of the Information Theory and Coding Course Offered in Fall 2022 @ Zewail City.
 
-In this project, I implemented a GUI to help users quantize an analog discrete signal using PCM QUANTIZATION.
-
-![image](https://user-images.githubusercontent.com/58476343/220144783-623eecd8-2968-4a72-b59c-213ab13bbc37.png)
+In this project, I implemented the H.264 Video Compression (Both Encoder and Decoder) using 2 different Quantization Tables (High and Low Tables).
 
 
-
-
-Part 1) Low Compression
+## Compression Steps:
 
 A) Video Encoder 
 
@@ -44,6 +40,11 @@ B) Video Decoder
 
 
 
-## Demo <a name="demo"></a>
+## Original Video <a name="Original Video"></a>
+https://user-images.githubusercontent.com/58476343/220159892-4a4bb33d-9f9b-4cda-8395-4e1939bfb918.mp4
 
-https://user-images.githubusercontent.com/58476343/220145051-93e3127b-baff-4de0-bd72-3e41a881d7e1.mp4
+## LOW Compression Video <a name="LOW Compression Video"></a>
+https://user-images.githubusercontent.com/58476343/220160012-0b31f0de-c278-443d-9cc0-aa5202b60def.mp4
+
+## HIGH Compression Video <a name="HIGH Compression Video"></a>
+https://user-images.githubusercontent.com/58476343/220160074-7c0bb5df-cd9f-46c6-8ec2-78530db7aad6.mp4
